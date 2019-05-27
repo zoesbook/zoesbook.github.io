@@ -1,3 +1,4 @@
 name: Zoe's personal blog
 markdown: kramdown
+theme: minima
 permalink: /blog/:year/:month/:day/:title
